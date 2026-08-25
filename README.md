@@ -8,13 +8,13 @@
 
 *software engineering student · 19 years old*
 
-🎀 Curitiba, Paraná, Brasil 🎀
+ Curitiba, Paraná, Brasil 
 
 <br>
 
 ♡ ───────────────────────── ♡
 
-### 🕯️ about me
+###  about me
 
 > *"building things, learning things, enjoying the process."*
 
@@ -27,7 +27,7 @@
 
 ♡ ───────────────────────── ♡
 
-### 🎀 languages & technologies
+###  languages & technologies
 
 <p align="center">
 
@@ -54,7 +54,7 @@
 
 ♡ ───────────────────────── ♡
 
-### 🎀 currently
+###  currently
 
 `learning` · `coding` · `creating`
 
