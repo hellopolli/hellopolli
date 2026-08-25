@@ -51,17 +51,6 @@
 
 `@heloa_poliana`
 
-♡ ───────────────────────── ♡
-
-### 🕯️ github
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=1c1717&title_color=e8d8c3&icon_color=b76e79&text_color=d8c7b5"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=1c1717&title_color=e8d8c3&text_color=d8c7b5"/>
-
-<br>
 
 ♡ ───────────────────────── ♡
 
